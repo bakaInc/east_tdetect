@@ -1,0 +1,16 @@
+#app {
+	padding: 40px;
+	width: 1000px;
+	position: absolute;
+	left: 50%;
+	margin-left: -500px;
+	text-align: center;
+}
+
+#result .item {
+	padding-bottom: 20px;
+}
+
+.form-content-container {
+	padding-left: 60px;
+}
